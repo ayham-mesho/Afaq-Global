@@ -1,4 +1,4 @@
-# Madeira - Afaq Global Corporate Website
+# Afaq Global Corporate Website
 
 A bilingual (Arabic/English) corporate website built with Next.js 13 and Strapi CMS, featuring dynamic content management, responsive design, and comprehensive business solutions showcase.
 
